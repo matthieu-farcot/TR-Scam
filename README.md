@@ -41,6 +41,8 @@ Fixing, remediation and mitigation
 
 References
 ----------
+https://www.scamwatch.gov.au/types-of-scams/buying-or-selling/false-billing#protect-yourself
+https://www.accc.gov.au/about-us/tools-resources/social-media/transcripts/scamwatch-warning-false-billing-scams
 
 document
 -------------------------------
