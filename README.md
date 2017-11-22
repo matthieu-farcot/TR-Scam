@@ -21,11 +21,18 @@ Unsolicited email messages offering advertising, directory entries or other serv
 
 Details on the scam
 ----------------------------
-Here is a list with example letters received by trademark holders from third parties recorded by Benelux Office for Intellectual Property (BOIP). The recipients of these letters are often under the impression that they originate from BOIP, EU IPO, WIPO or some other official agency:
+Here is an example list with fraud letters received by trademark holders from third parties recorded by Benelux Office for Intellectual Property (BOIP). The recipients of these letters are often under the impression that they originate from BOIP, EU IPO, WIPO or some other official agency:
 
-- [Register van Industriële Eigendom, the Netherlands, July 2017](https://www.boip.int/wps/wcm/connect/www/b324e626-f64f-4f1c-98d3-1e01f01414ab/Reg+IE.pdf?MOD=AJPERES)
+- [Register van Industriële Eigendom, the Netherlands](https://www.boip.int/wps/wcm/connect/www/b324e626-f64f-4f1c-98d3-1e01f01414ab/Reg+IE.pdf?MOD=AJPERES)
+- [Register van Nationale Merken, the Netherlands](https://www.boip.int/wps/wcm/connect/www/ce3ea6cd-93cd-41cc-9d7f-d95072948692/Reg+Nat+Merken.pdf?MOD=AJPERES)
+- [OPT Register, Slovakia](https://www.boip.int/wps/wcm/connect/www/0d2857f6-f880-4c49-9a6d-2e19fba446a1/OPT+register.pdf?MOD=AJPERES)
+- [Centraal Register Voor Merken en Octrooien, the Netherlands](https://www.boip.int/wps/wcm/connect/www/12392c76-a3d7-4f8d-ab82-28a05f232a52/CRMO.pdf?MOD=AJPERES)
+- [Registre Central des Marques Deposees et Inventions, the Netherlands](https://www.boip.int/wps/wcm/connect/www/588a8ab3-c037-4b0e-861b-c9bf5db83883/RCdMDeI.pdf?MOD=AJPERES)
+- [IPT Register, Czech Republic](https://www.boip.int/wps/wcm/connect/www/39046a65-4fc0-4793-8cf4-785d99f5ab39/IPT+Register.pdf?MOD=AJPERES)
+- [International Patent and Trademark Service, Poland] (https://www.boip.int/wps/wcm/connect/www/2b940c93-b826-4363-995a-be3327680ac8/IPTS+%281%29.pdf?MOD=AJPERES)
+- [Gaia Almanach, Hungary](https://www.boip.int/wps/wcm/connect/www/d90298d3-f08b-4c9f-a92f-2bd2979aa6f2/Gaia+Almanach.pdf?MOD=AJPERES)
 
-Similar lists can be found on the websites of EUIPO and WIPO.
+Similar lists with example letters with misleading invoices can be found on the websites of [EUIPO](https://euipo.europa.eu/ohimportal/en/misleading-invoices) and [WIPO](http://www.wipo.int/madrid/en/fees/invoices_2015.html). 
 
 Fixing, remediation and mitigation
 ----------------------------------
