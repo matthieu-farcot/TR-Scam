@@ -11,17 +11,6 @@ There have been deliberate fraudelent acts occuring extremely frequently in Luxe
 Businesses, either big or small, often receive suspicious letters or unsolicited email messages that can be grouped into three categories:
 
 1. Offers looking like bills
-=======
-As CIRCL is often contacted by victims of such scams,
-
-editing things here
-
-People running a business big or small often receive suspicious letters or unsolicited email messages. You can find a list of examples below. They can be grouped into three categories:
-
-Here is an example of an amazing text edition. blah blah
-
-Offers looking like bills
-
 These are offers crafted to look like invoices or bills, requesting payment for goods or services you never received. Always read the fine print on any suspected fake invoice - this will identify the true nature of these scams. No further action is required.
 
 2. Fake invoices
@@ -32,9 +21,11 @@ Unsolicited email messages offering advertising, directory entries or other serv
 
 Details on the scam
 ----------------------------
-As recoded by the Benelux Office for Intellectual Property
+Here is a list with example letters received by trademark holders from third parties recorded by Benelux Office for Intellectual Property (BOIP). The recipients of these letters are often under the impression that they originate from BOIP, EU IPO, WIPO or some other official agency:
 
+- [Register van Industriële Eigendom (the Netherlands, July 2017)] (https://www.boip.int/wps/wcm/connect/www/b324e626-f64f-4f1c-98d3-1e01f01414ab/Reg+IE.pdf?MOD=AJPERES)
 
+Similar lists can be found on the websites of EUIPO and WIPO.
 
 Fixing, remediation and mitigation
 ----------------------------------
