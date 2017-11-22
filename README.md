@@ -8,6 +8,8 @@ Overview
 
 As a deliberate mean of securing unfair or unlawful gain, frauds such as false billing, fake invoicing or related fake advertising options are unfortunately extremely frequent.
 
+testing content update
+
 As CIRCL is often contacted by victims of such scams,
 
 People running a business big or small often receive suspicious letters or unsolicited email messages. You can find a list of examples below. They can be grouped into three categories:
