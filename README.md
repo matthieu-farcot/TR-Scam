@@ -1,28 +1,16 @@
 ---
 title: TR-XX - False billing and related scams management
-description: TR-XX - How to react to faudulent acts of third party invoicing or otherwise requesting funds without showing obligation to pay
+description: TR-XX - How to react to fraudulent acts of third party invoicing or requesting funds without showing any purchase order
 ---
 
 Overview
 --------
 
-As a deliberate mean of securing unfair or unlawful gain, frauds such as false billing, fake invoicing or related fake advertising options are unfortunately extremely frequent.
+There has been deliberate fraudelent acts occuring extremely frequently in Luxembourg as means of securing unfair or unlawful gains. As CIRCL is often contacted by victims of such scams, we would like to issue a clear warning of frauds such as false billing, fake invoicing or related fake advertising.
 
-testing content update
+Businesses, either big or small, often receive suspicious letters or unsolicited email messages that can be grouped into three categories:
 
-new content with amazing added value (23)
-
-## adding content fromm matthieu
-
-As CIRCL is often contacted by victims of such scams,
-
-editing things here
-
-People running a business big or small often receive suspicious letters or unsolicited email messages. You can find a list of examples below. They can be grouped into three categories:
-
-Here is an example of an amazing text edition. blah blah
-
-Offers looking like bills
+1. Offers looking like bills
 These are offers crafted to look like invoices or bills, requesting payment for goods or services you never received. Always read the fine print on any suspected fake invoice - this will identify the true nature of these scams. No further action is required.
 
 2. Fake invoices
@@ -33,7 +21,8 @@ Unsolicited email messages offering advertising, directory entries or other serv
 
 Details on the scam
 ----------------------------
-adding elements
+As recoded by the Benelux Office for Intellectual Property
+
 
 
 Fixing, remediation and mitigation
