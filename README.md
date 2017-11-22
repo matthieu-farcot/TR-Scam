@@ -29,7 +29,7 @@ Here is an example list with fraud letters received by trademark holders from th
 - [Centraal Register Voor Merken en Octrooien, the Netherlands](https://www.boip.int/wps/wcm/connect/www/12392c76-a3d7-4f8d-ab82-28a05f232a52/CRMO.pdf?MOD=AJPERES)
 - [Registre Central des Marques Deposees et Inventions, the Netherlands](https://www.boip.int/wps/wcm/connect/www/588a8ab3-c037-4b0e-861b-c9bf5db83883/RCdMDeI.pdf?MOD=AJPERES)
 - [IPT Register, Czech Republic](https://www.boip.int/wps/wcm/connect/www/39046a65-4fc0-4793-8cf4-785d99f5ab39/IPT+Register.pdf?MOD=AJPERES)
-- [International Patent and Trademark Service, Poland] (https://www.boip.int/wps/wcm/connect/www/2b940c93-b826-4363-995a-be3327680ac8/IPTS+%281%29.pdf?MOD=AJPERES)
+- [International Patent and Trademark Service, Poland](https://www.boip.int/wps/wcm/connect/www/2b940c93-b826-4363-995a-be3327680ac8/IPTS+%281%29.pdf?MOD=AJPERES)
 - [Gaia Almanach, Hungary](https://www.boip.int/wps/wcm/connect/www/d90298d3-f08b-4c9f-a92f-2bd2979aa6f2/Gaia+Almanach.pdf?MOD=AJPERES)
 
 Similar lists with example letters with misleading invoices can be found on the websites of [EUIPO](https://euipo.europa.eu/ohimportal/en/misleading-invoices) and [WIPO](http://www.wipo.int/madrid/en/fees/invoices_2015.html). 
@@ -37,6 +37,9 @@ Similar lists with example letters with misleading invoices can be found on the 
 Fixing, remediation and mitigation
 ----------------------------------
 
+If you think you’ve been scammed you should report to the Police that will help you proceed. For scams implying online activities, do not hesitate to contact [CIRCL](info@circl.lu).
+
+If you think you’ve been targeted by a scam, you should also report it so it can be investigated. Please try to keep as much proofs as possible (enveloppes, mail exchanges, ...), as all details can help.
 
 
 References
