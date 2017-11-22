@@ -37,7 +37,7 @@ Similar lists with example letters with misleading invoices can be found on the 
 Fixing, remediation and mitigation
 ----------------------------------
 
-If you think you’ve been scammed you should report to the Police that will help you proceed. For scams implying online activities, do not hesitate to contact [CIRCL](info@circl.lu).
+If you think you’ve been scammed you should report to the Police that will help you proceed. For scams implying online activities, do not hesitate to contact [CIRCL](mailto:info@circl.lu).
 
 If you think you’ve been targeted by a scam, you should also report it so it can be investigated. Please try to keep as much proofs as possible (enveloppes, mail exchanges, ...), as all details can help.
 
