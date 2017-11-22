@@ -8,11 +8,17 @@ Overview
 
 As a deliberate mean of securing unfair or unlawful gain, frauds such as false billing, fake invoicing or related fake advertising options are unfortunately extremely frequent.
 
+testing content update
+
+new content with amazing added value
+
 As CIRCL is often contacted by victims of such scams,
 
 editing things here
 
 People running a business big or small often receive suspicious letters or unsolicited email messages. You can find a list of examples below. They can be grouped into three categories:
+
+Here is an example of an amazing text edition. blah blah
 
 Offers looking like bills
 These are offers crafted to look like invoices or bills, requesting payment for goods or services you never received. Always read the fine print on any suspected fake invoice - this will identify the true nature of these scams. No further action is required.
