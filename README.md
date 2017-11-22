@@ -10,6 +10,8 @@ As a deliberate mean of securing unfair or unlawful gain, frauds such as false b
 
 As CIRCL is often contacted by victims of such scams,
 
+editing things here
+
 People running a business big or small often receive suspicious letters or unsolicited email messages. You can find a list of examples below. They can be grouped into three categories:
 
 Offers looking like bills
