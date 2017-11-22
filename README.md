@@ -23,7 +23,7 @@ Details on the scam
 ----------------------------
 Here is a list with example letters received by trademark holders from third parties recorded by Benelux Office for Intellectual Property (BOIP). The recipients of these letters are often under the impression that they originate from BOIP, EU IPO, WIPO or some other official agency:
 
-- [Register van Industriële Eigendom (the Netherlands, July 2017)] (https://www.boip.int/wps/wcm/connect/www/b324e626-f64f-4f1c-98d3-1e01f01414ab/Reg+IE.pdf?MOD=AJPERES)
+- [Register van Industriële Eigendom, the Netherlands, July 2017](https://www.boip.int/wps/wcm/connect/www/b324e626-f64f-4f1c-98d3-1e01f01414ab/Reg+IE.pdf?MOD=AJPERES)
 
 Similar lists can be found on the websites of EUIPO and WIPO.
 
