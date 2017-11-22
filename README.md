@@ -10,13 +10,13 @@ There have been deliberate fraudelent acts occuring extremely frequently in Luxe
 
 Businesses, either big or small, often receive suspicious letters or unsolicited email messages that can be grouped into three categories:
 
-1. Offers looking like bills
+1. **Offers looking like bills** - 
 These are offers crafted to look like invoices or bills, requesting payment for goods or services you never received. Always read the fine print on any suspected fake invoice - this will identify the true nature of these scams. No further action is required.
 
-2. Fake invoices
+2. **Fake invoices** - 
 These invoices include no fine print, but simply demand payment for goods or services that you never ordered or never received. Ask for written proof of the original order. The sender must be able to present evidence of your alleged purchase.
 
-3. Advertising fraud
+3. **Advertising fraud** - 
 Unsolicited email messages offering advertising, directory entries or other services. Remember, you’re under no obligation to reply. Once you’ve signed and returned the offer, you’ve struck a deal that is binding.
 
 Details on the scam
