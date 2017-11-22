@@ -6,7 +6,7 @@ description: TR-XX - How to react to fraudulent acts of third party invoicing or
 Overview
 --------
 
-There has been deliberate fraudelent acts occuring extremely frequently in Luxembourg as means of securing unfair or unlawful gains. As CIRCL is often contacted by victims of such scams, we would like to issue a clear warning of frauds such as false billing, fake invoicing or related fake advertising.
+There have been deliberate fraudelent acts occuring extremely frequently in Luxembourg as means of securing unfair or unlawful gains. As CIRCL is often contacted by victims of such scams, we would like to issue a clear warning of frauds such as false billing, fake invoicing or related fake advertising.
 
 Businesses, either big or small, often receive suspicious letters or unsolicited email messages that can be grouped into three categories:
 
