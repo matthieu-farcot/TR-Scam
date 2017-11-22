@@ -10,6 +10,8 @@ As a deliberate mean of securing unfair or unlawful gain, frauds such as false b
 
 testing content update
 
+new content with amazing added value
+
 As CIRCL is often contacted by victims of such scams,
 
 People running a business big or small often receive suspicious letters or unsolicited email messages. You can find a list of examples below. They can be grouped into three categories:
