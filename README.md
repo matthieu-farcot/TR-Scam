@@ -6,14 +6,14 @@ description: TR-XX - How to react to fraudulent acts of third party invoicing or
 Overview
 --------
 
-There are many deliberate fraudelent acts occuring frequently in Luxembourg as means of securing unfair or unlawful gains, of which fake bills and advertising scams are unfortunetly common. CIRCL is often contacted by victims of such scams, and would like to issue a clear warning related to such frauds as false billing, fake invoicing or related fake advertising.
+Among the many deliberate fraudelent acts occuring frequently as means of securing unfair or unlawful gains, fake bills and advertising scams are unfortunetly common. CIRCL is often contacted by victims of such scams, and would like to issue a clear warning related to such frauds as false billing, fake invoicing or related fake advertising.
 
 This TR document describes the nature of the scams and provides hints on how to react.
 
-Details on the scams
+Details on the scam
 ----------------------------
 
-Businesses, either big or small, often receive suspicious letters or unsolicited email messages. Among those, many fake billing and advertising scams exist which can be grouped into three categories:
+Businesses, either big or small, often receive suspicious letters or unsolicited email messages. Among those, fake invoices or advertising frauds are fairly common.
 
 1. **Offers looking like bills** - 
 These are offers crafted to look like invoices or bills, requesting payment for goods or services that never were received. CIRCL insists uppon the fact that all fine prints should be read on any invoices, suspectively fake or not, as most of the time this will identify the true nature of these scams. An example of such scam is reproduced hereafter. Since this is not a proper bill, no further action is required appart from signaling the fraudulent sending to approapriate authorities. Creating such documents does constitute a fraudulent act.
